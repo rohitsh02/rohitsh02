@@ -15,11 +15,11 @@
 ⚡ 2+ years of experience deploying **scalable ML solutions** on **GCP Cloud Run**  
 📊 Created intelligent systems processing **thousands of electricity bills** with AI extraction pipelines  
 🔬 Passionate about **Computer Vision**, **Deep Learning**, and **LangChain/LangGraph** applications
- 
-🔭 Currently building **AI-powered energy analytics** and exploring **multi-agent LLM systems** with LangGraph
-🌱 Learning **TypeScript**, **Next.js**, **Vector Databases (Pinecone)**, and **Supabase** for modern full-stack development
+
+🔭 Building **AI-powered energy analytics** and learning **multi-agent LLM systems** with LangGraph  
+🌱 Learning **TypeScript**, **Next.js**, **Vector Databases (Pinecone)**, and **Supabase** for modern full-stack development  
 👯 Looking to collaborate on **AI/ML projects**, **backend systems**, and **automation tools**  
 💬 Ask me about **Python**, **FastAPI**, **LangChain**, **Computer Vision**, or **GCP deployment**  
 ⚡ Fun fact: I've built systems that analyze **thousands of electricity bills** to help Indians save on energy costs!
- 
+
 ---
