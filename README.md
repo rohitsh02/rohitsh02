@@ -1,9 +1,7 @@
 # Hey there! I'm Rohit Shende 👋
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rohitsh02&color=blueviolet&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/rohitsh02?label=Followers&style=for-the-badge&logo=github)](https://github.com/rohitsh02?tab=followers)
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rohitshende)
   
 </div>
@@ -21,197 +19,39 @@
 
 ---
 
-## 💼 What I'm Building at Grid Insight
-
-### 🔋 BijleeSolar - GridInsight Platform
-Leading the AI/ML engineering for India's smart solar energy analytics platform:
-
-**🤖 AI Electricity Bill Analyzer Chatbot**
-- Built conversational AI using **LangGraph** + **Google Gemini API**
-- Automated extraction and analysis from utility bills (MSEDCL, APSPDCL, etc.)
-- Multi-turn conversations for bill insights and solar recommendations
-
-**📊 Volt Platform - Energy Analytics Dashboard**
-- Real-time energy consumption analytics and visualization
-- **FastAPI** backend with **MongoDB** for high-performance data processing
-- Multi-tenant architecture serving solar installers across India
-
-**📄 Intelligent Document Processing Pipeline**
-- Advanced PDF/bill extraction using computer vision and NLP
-- Automated data validation and structure recognition
-- Processing **10000+** documents monthly with **98%+ accuracy**
-
-**⚙️ n8n Workflow Automation Suite**
-- End-to-end automation for lead management, notifications, and integrations
-- Reduced manual operations by **70%**
-- Seamless integration with CRM, email, and analytics tools
-
----
-
-## 🛠️ Tech Stack & Expertise
  
+## 🛠️ Tech Stack
  
-### 💻 Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Languages & Core**  
+Python • JavaScript • SQL • Bash
  
-### 🤖 AI/ML & LLM Frameworks
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+**AI/ML & LLM Frameworks**  
+LangChain • LangGraph • Google Gemini API • OpenAI API • TensorFlow • PyTorch • Hugging Face
  
-### 👁️ Computer Vision & NLP
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-3776AB?style=for-the-badge)
+**Computer Vision & NLP**  
+OpenCV • YOLO • spaCy • NLTK • Tesseract OCR • PaddleOCR
  
-### 🔧 Backend & API Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**Backend & API Development**  
+FastAPI • Flask • Django • REST API • GraphQL
  
-### 🗄️ Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Supermemory](https://img.shields.io/badge/Supermemory-000000?style=for-the-badge&logo=supabase&logoColor=white)
+**Databases & Storage**  
+MongoDB • Firebase • PostgreSQL • Redis • Pinecone • Supabase
  
-### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**Cloud & DevOps**  
+Google Cloud Platform • Cloud Run • Docker • Kubernetes • GitHub Actions • Vercel
  
-### ⚙️ Automation & Workflow
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+**Automation & Workflow**  
+n8n • Make (Integromat) • Zapier • Apache Airflow
  
-### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Data Science & Analytics**  
+Pandas • NumPy • scikit-learn • Matplotlib • Plotly • Jupyter • Seaborn
  
+**Frontend & Web**  
+HTML5 • CSS3 • TailwindCSS • React • Next.js • Bootstrap
  
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitsh02&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsh02&layout=compact&theme=radical&hide_border=true&langs_count=8)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitsh02&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 [Time Series Forecasting](https://github.com/rohitsh02/time_series_forecasting)
-Advanced forecasting models for time series analysis and prediction
-
-**Stack:** Python, TensorFlow, Pandas  
-**Focus:** LSTM, ARIMA, Prophet implementations
-
-</td>
-<td width="50%">
-
-### 🎨 [Classical Computer Vision Projects](https://github.com/rohitsh02/classical_cv_projects)
-Implementation of fundamental CV algorithms, data structures, and simulations
-
-**Stack:** Python, OpenCV, NumPy  
-**Focus:** Image processing, feature detection
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 [ML Algorithms - Practical](https://github.com/rohitsh02/ML_Algorithms_Practical)
-Hands-on implementations of popular machine learning algorithms
-
-**Stack:** Python, scikit-learn, Jupyter  
-**Focus:** Regression, Decision Trees, Random Forests
-
-</td>
-<td width="50%">
-
-### 🛠️ [Helper Functions](https://github.com/rohitsh02/helping_functions)
-Reusable utility functions for ML/DS workflows and coding journeys
-
-**Stack:** Python  
-**Focus:** Data preprocessing, utilities
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 [Flask Lab](https://github.com/rohitsh02/flask_lab)
-Experiments and learning projects in Flask web development
-
-**Stack:** Flask, Python, HTML/CSS  
-**Focus:** REST APIs, web app deployment
-
-</td>
-<td width="50%">
-
-### 📊 [MongoDB Projects](https://github.com/rohitsh02/MongoDB)
-Database projects and explorations with MongoDB
-
-**Stack:** MongoDB, Python, PyMongo  
-**Focus:** CRUD, aggregation, schema design
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsh02&theme=react-dark&hide_border=true&area=true)
-
-<div align="center">
-
-### 🔥 Recent Highlights
-**42 commits** in March 2026 | **23 pull requests** opened across 2 repositories  
-Active contributor to **BijleeSolar/GridInsightPlatform** and **GridInsightExtraction**
-
-</div>
-
+**Development Tools**  
+Git • VS Code • PyCharm • Postman • Notion • Linux • Vim
+ 
 ---
 
 ## 💡 Core Competencies
@@ -222,13 +62,13 @@ rohit_shende = {
     "company": "Grid Insight",
     "location": "Nagpur, India",
     "expertise": [
-        "AI Chatbot Development (LangGraph, LangChain)",
+        "AI Chatbot Development",
         "Document Intelligence & PDF Extraction",
-        "Backend API Development (FastAPI)",
-        "Workflow Automation (n8n)",
+        "Backend API Development",
+        "Workflow Automation",
         "Computer Vision & Deep Learning",
         "Time Series Forecasting",
-        "Cloud Deployment (GCP Cloud Run)",
+        "Cloud Deployment",
         "Production ML Systems"
     ],
     "current_focus": [
@@ -262,37 +102,17 @@ rohit_shende = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitshende@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitshende)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohitsh02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-
-**💼 Open for freelance AI/ML and backend development projects!**  
-Available 5-10 hours/week for exciting collaborations
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitshende020@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-shende-ml)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com) -->
 
 </div>
-
----
-
-## 🏆 Professional Experience
-
-### Grid Insight | Principal Data Science Engineer
-*2023 - Present | Nagpur, India*
-
-**Key Achievements:**
-- 🚀 Deployed **5 production AI systems** serving solar installers across India
-- 📊 Built chatbot processing **1000+ bills monthly** with **95%+ accuracy**
-- ⚡ Reduced manual operations by **70%** through n8n automation
-- 🔧 Architected **multi-tenant FastAPI backend** on GCP Cloud Run
-- 🤖 Pioneered **LangGraph + Gemini** integration for conversational AI
 
 ---
 
 <div align="center">
 
 ### ⚡ "Building AI systems that make renewable energy accessible to everyone" 🌞
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rohitsh02.rohitsh02)
 
 ---
 
