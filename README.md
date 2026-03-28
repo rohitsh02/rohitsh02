@@ -20,7 +20,7 @@
 ---
 
  
-## 🛠️ Tech Stack
+<!-- ## 🛠️ Tech Stack
  
 **Languages & Core**  
 Python • JavaScript • SQL • Bash
@@ -84,7 +84,7 @@ rohit_shende = {
         "Supabase & modern stack"
     ]
 }
-```
+``` -->
 
 ---
 
