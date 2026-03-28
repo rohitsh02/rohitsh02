@@ -97,7 +97,7 @@ rohit_shende = {
 - ⚡ Fun fact: I've built systems that analyze **thousands of electricity bills** to help Indians save on energy costs!
 
 ---
-
+<!-- 
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -118,4 +118,4 @@ rohit_shende = {
 
 <i>⭐ From [rohitsh02](https://github.com/rohitsh02) | Happy Coding! 💻✨</i>
 
-</div>
+</div> -->
